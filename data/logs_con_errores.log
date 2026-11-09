@@ -1,0 +1,12 @@
+[INFO] 2025-01-10 User logged in
+[ERROR] 2025-01-10 Failed to connect to database
+
+[WARNING] Invalid password attempt
+Texto corrupto sin formato ni nivel de severidad asignado
+[INFO] 2025-02-31 System reboot scheduled
+
+[ERROR] 2025-99-99 Unrecognized date format in event payload
+
+[WARNING] Session timeout warning without date
+· [INFO] 2025-01-15 Bullet prefix before brackets handled correctly
+Línea con basura al inicio y fin 123456789
